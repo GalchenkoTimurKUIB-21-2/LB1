@@ -1,7 +1,0 @@
-echo "# LB1" >> README.md
-git init
-git add README.md
-git commit -m "Postman"
-git branch -M main
-git remote add origin https://github.com/GalchenkoTimurKUIB-21-2/LB1.git
-git push -u origin main
