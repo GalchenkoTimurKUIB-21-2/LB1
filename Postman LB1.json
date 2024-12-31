@@ -1,0 +1,26 @@
+[
+{ 
+"exchangedate":"31.12.2024","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":42.039,"units":1,"rate_per_unit":42.039,"group":"1","calcdate":"30.12.2024"
+ }
+,{ 
+"exchangedate":"30.12.2024","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":41.9403,"units":1,"rate_per_unit":41.9403,"group":"1","calcdate":"27.12.2024"
+ }
+,{ 
+"exchangedate":"29.12.2024","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":41.8447,"units":1,"rate_per_unit":41.8447,"group":"1","calcdate":"26.12.2024"
+ }
+,{ 
+"exchangedate":"28.12.2024","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":41.8447,"units":1,"rate_per_unit":41.8447,"group":"1","calcdate":"26.12.2024"
+ }
+,{ 
+"exchangedate":"27.12.2024","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":41.8447,"units":1,"rate_per_unit":41.8447,"group":"1","calcdate":"26.12.2024"
+ }
+,{ 
+"exchangedate":"26.12.2024","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":41.8623,"units":1,"rate_per_unit":41.8623,"group":"1","calcdate":"25.12.2024"
+ }
+,{ 
+"exchangedate":"25.12.2024","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":41.9875,"units":1,"rate_per_unit":41.9875,"group":"1","calcdate":"24.12.2024"
+ }
+,{ 
+"exchangedate":"24.12.2024","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":41.991,"units":1,"rate_per_unit":41.991,"group":"1","calcdate":"23.12.2024"
+ }
+]
