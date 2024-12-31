@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exchange>
+  <currency>
+    <exchangedate>31.12.2024</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>42.039</rate>
+    <units>1</units>
+    <rate_per_unit>42.039</rate_per_unit>
+    <group>1</group>
+    <calcdate>30.12.2024</calcdate>
+</currency>
+  <currency>
+    <exchangedate>30.12.2024</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>41.9403</rate>
+    <units>1</units>
+    <rate_per_unit>41.9403</rate_per_unit>
+    <group>1</group>
+    <calcdate>27.12.2024</calcdate>
+</currency>
+  <currency>
+    <exchangedate>29.12.2024</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>41.8447</rate>
+    <units>1</units>
+    <rate_per_unit>41.8447</rate_per_unit>
+    <group>1</group>
+    <calcdate>26.12.2024</calcdate>
+</currency>
+  <currency>
+    <exchangedate>28.12.2024</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>41.8447</rate>
+    <units>1</units>
+    <rate_per_unit>41.8447</rate_per_unit>
+    <group>1</group>
+    <calcdate>26.12.2024</calcdate>
+</currency>
+  <currency>
+    <exchangedate>27.12.2024</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>41.8447</rate>
+    <units>1</units>
+    <rate_per_unit>41.8447</rate_per_unit>
+    <group>1</group>
+    <calcdate>26.12.2024</calcdate>
+</currency>
+  <currency>
+    <exchangedate>26.12.2024</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>41.8623</rate>
+    <units>1</units>
+    <rate_per_unit>41.8623</rate_per_unit>
+    <group>1</group>
+    <calcdate>25.12.2024</calcdate>
+</currency>
+  <currency>
+    <exchangedate>25.12.2024</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>41.9875</rate>
+    <units>1</units>
+    <rate_per_unit>41.9875</rate_per_unit>
+    <group>1</group>
+    <calcdate>24.12.2024</calcdate>
+</currency>
+  <currency>
+    <exchangedate>24.12.2024</exchangedate>
+    <r030>840</r030>
+    <cc>USD</cc>
+    <txt>Долар США</txt>
+    <enname>US Dollar</enname>
+    <rate>41.991</rate>
+    <units>1</units>
+    <rate_per_unit>41.991</rate_per_unit>
+    <group>1</group>
+    <calcdate>23.12.2024</calcdate>
+</currency>
+</exchange>
